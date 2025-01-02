@@ -1,0 +1,7 @@
+django==4.2.8
+gunicorn==21.2.0
+whitenoise==6.6.0
+python-dotenv==1.0.1
+django-admin-material-dashboard
+django-allauth==0.58.1
+django-dynamic-api==1.0.4
